@@ -17,7 +17,8 @@ The ecosystem is vast and spans across multiple platforms, academic repositories
 * [Academic & Formal Research](academic_and_formal.md) - OSF Preprints, ResearchGate publications, and DOIs.
 
 ### ✍️ Publications by Platform
-* [Medium Publications](publications_medium.md) - Chronological and thematic index of 500+ articles.
+* **[Medium Archive & Codex](publications_medium.md)** — A complete, decentralized archive of over 800+ Medium articles spanning my entire publishing history.
+* **[Facebook Fieldnotes Codex](publications_facebook.md)** — A complete archive of over 3,000+ thoughts, fieldnotes, and posts from Facebook.
 * [Substack Publications](publications_substack.md) - The Unfiltered Edition, Simply WE, and other newsletters.
 * [Blockchain / Immutable Editions](publications_blockchain.md) - Works published on Paragraph.xyz and other immutable networks.
 
